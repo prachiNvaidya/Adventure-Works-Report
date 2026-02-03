@@ -13,3 +13,6 @@
 <p>2. Build a relational data model.</p>
 <p>3. Create calculated columns and measures with DAX.</p>
 <p>4. Design an interactive dashboard to visualize the data.</p>
+
+
+### Please find Images in the repository to view the dashboard and an insights report of the same.
